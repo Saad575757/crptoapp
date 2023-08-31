@@ -1,0 +1,29 @@
+/* CoinbaseComponent.css */
+
+.coinbase-container {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .coinbase-title {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .coinbase-content {
+    font-size: 1.2rem;
+  }
+  
+  .btc-price {
+    color: #27ae60; /* Green color */
+  }
+  
+  .fetching {
+    color: #3498db; /* Blue color */
+    font-style: italic;
+  }
+  
